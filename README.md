@@ -10,4 +10,4 @@ The script expects to find the original files in the `data/original` folder, you
 Check the supported flags on top of the python file.
 
 ### Doc
-Check the [project report](report.pdf]) for more details.
+Check the [project report](report.pdf]) for more details. 
